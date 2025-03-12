@@ -1,0 +1,3 @@
+string first_node_name
+string second_node_name
+uint32 distance

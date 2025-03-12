@@ -1,0 +1,6 @@
+NodesPair[] map
+string source
+---
+NodeInfo[] result
+---
+NodeInfo current_node
